@@ -1,2 +1,2 @@
-# Boiler-plate-bullet-testing
-This is a test for materials that can be used for making walls, based on the walls resistance on the collision of a bullet.
+# p5.play-boilerplate
+Boiler plate for p5.play
